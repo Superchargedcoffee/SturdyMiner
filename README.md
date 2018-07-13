@@ -1,0 +1,2 @@
+# SturdyMiner
+Minecraft mod
